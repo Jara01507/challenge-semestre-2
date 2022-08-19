@@ -1,0 +1,30 @@
+.padre {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.imagen {
+    display: flex;
+    
+}
+
+.contenido {
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    flex-grow: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.leyenda {
+    /*display: flex;*/
+}
+
+.boton {
+    display: flex;
+}
